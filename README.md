@@ -6,7 +6,9 @@ This is euro rack reverb module based on a 100 Reverb FX board, sold via Chinese
 
 ![Reverb-O-Matic](fotos/20200921_231034.jpg)
 
-You can find a schematic describing the circuitry I added to adapt signal levels to euro rack level conventions here 
+A video demonstrating the module can be found here: https://youtu.be/npN-3Wpyl-M
+
+You can find a schematic describing the circuitry I added to adapt signal levels to euro rack level conventions here:
 
 ![Reverb-O-Matic](schematic/Reverb-O-Matic_schematic_v0.1.png)
 
